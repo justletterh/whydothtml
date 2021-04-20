@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+div.box{
+    font-weight: 900;
+    float: left;
+    height: 100px;
+    width: 150px;
+    line-height: 50px;
+    content: 100vh;
+}
+
+div.box name{
+    font-size: 0.875em;
+}
+
+div.box a{
+    color: inherit;
+}
